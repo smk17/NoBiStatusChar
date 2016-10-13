@@ -1,0 +1,10 @@
+D:\My Documents\++设计++\NSC\StatusChartDemo\bin\Debug\StatusChartDemo.exe
+D:\My Documents\++设计++\NSC\StatusChartDemo\bin\Debug\StatusChartDemo.pdb
+D:\My Documents\++设计++\NSC\StatusChartDemo\bin\Debug\Nobi.StatusChart.dll
+D:\My Documents\++设计++\NSC\StatusChartDemo\bin\Debug\Nobi.StatusChart.pdb
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\StatusChartDemo.DemoForm.resources
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\StatusChartDemo.Properties.Resources.resources
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\StatusChartDemo.csproj.GenerateResource.Cache
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\StatusChartDemo.exe
+D:\My Documents\++设计++\NSC\StatusChartDemo\obj\Debug\StatusChartDemo.pdb

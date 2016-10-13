@@ -1,0 +1,7 @@
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\bin\Debug\Nobi.StatusChart.dll
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\bin\Debug\Nobi.StatusChart.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\obj\Debug\StatusChart.csprojResolveAssemblyReference.cache
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\obj\Debug\UI.StatusChart.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\obj\Debug\StatusChart.csproj.GenerateResource.Cache
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\obj\Debug\Nobi.StatusChart.dll
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChart\obj\Debug\Nobi.StatusChart.pdb

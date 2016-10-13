@@ -1,0 +1,14 @@
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\bin\Debug\StatusChartDemo.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\bin\Debug\StatusChartDemo.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\bin\Debug\Nobi.StatusChart.dll
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\bin\Debug\Nobi.StatusChart.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.csprojResolveAssemblyReference.cache
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.DemoForm.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.Properties.Resources.resources
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\NobiStatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.csproj.GenerateResource.Cache
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\StatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\StatusChart\StatusChartDemo\obj\Debug\StatusChartDemo.pdb
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\StatusChartext\StatusChartDemo\obj\Debug\StatusChartDemo.exe
+C:\Users\smk17\Documents\Visual Studio 2015\Projects\StatusChartext\StatusChartDemo\obj\Debug\StatusChartDemo.pdb
